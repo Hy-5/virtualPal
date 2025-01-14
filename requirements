@@ -1,0 +1,12 @@
+python-telegram-bot | pip install python-telegram-bot --upgrade
+openai | pip install openai
+job queue | pip install python-telegram-bot[job-queue]
+requests | pip install requests
+newspaper | pip3 install newspaper3k (for python3)
+lxml | pip install lxml_html_clean
+transformers | pip install transformers
+
+-------------------
+pytorch VISIT pytorch.org/get-started/locally FOR VARIOUS INSTALL SCRIPTS DEPENDING ON CPU/GPU ACCELERATION OR LANGUAGE, PLATFORM ETC
+CPU ACCEL : pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+GPU ACCEL CUDA 12.1 : pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 

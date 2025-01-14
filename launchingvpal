@@ -1,0 +1,3 @@
+#!/bin/bash
+source {environment path}
+python3 '{vpal2.py full path}' >> '{vpal2.log full path}' 2>&1
